@@ -1,6 +1,6 @@
-# Nexus Mods Team 🛠️
+# Verity Mods Team 🛠️
 
-Welcome to the official GitHub organization for **Nexus Mods Team**. We are a community of developers dedicated to enhancing and remastering classic Minecraft mods for modern versions.
+Welcome to the official GitHub organization for **Verity Mods Team**. We are a community of developers dedicated to enhancing and remastering classic Minecraft mods for modern versions.
 
 Our goal is to fix bugs, upgrade AI systems, and breathe new life into abandoned or outdated projects.
 
